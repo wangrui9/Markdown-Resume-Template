@@ -1,18 +1,17 @@
  <center>
-     <h1>XXX</h1>
+     <h1>王瑞（985硕士2023年应届毕业生）</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
+* 手 机：18540179546 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1406363544@qq.com    
+* 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：后端开发工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~ 至今  &emsp;&emsp;&emsp;&emsp; 电子信息-控制工程专业-硕士研究生         
+* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.6 &emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
 
 ## 专业技能
 
@@ -35,13 +34,16 @@
     * demo演示地址，github地址 
 
 ## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
+* 和利时学业优秀奖学金
+* 连续两年获东北大学研究生一等学业奖学金
+* 东北大学优秀研究生
+* 东北大学优秀学生干部
+* 东北大学第五十七届运动会男子1500m第五名
 
-## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+## 学生工作经历 
+* 2020.9 ~  至今  信硕2008班班长
+* 2016.9 ~ 2020.6 自动化1607班班长
+* 连续两年获东北大学优秀班集体
 
 ## 其他信息 
 * 喜欢钻研技术 等等
