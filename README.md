@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24  
-* 手 机：18540179546 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;      邮 箱：1406363544@qq.com    
+* 手 机：18540179546 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    邮 箱：1406363544@qq.com    
 * 专 业：电子信息 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                    岗 位：后端开发工程师
 
 ## 工作及教育经历
