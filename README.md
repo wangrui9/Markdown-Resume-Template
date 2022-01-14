@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~ 至今  &emsp;&emsp;&emsp;&emsp;&emsp; 电子信息-控制工程专业-硕士研究生         
+* 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~至今  &emsp;&emsp;&emsp;&emsp;&emsp; 电子信息-控制工程专业-硕士研究生         
 * 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.6 &emsp;&emsp;&emsp;&emsp; 自动化专业-本科  
 
 ## 专业技能
